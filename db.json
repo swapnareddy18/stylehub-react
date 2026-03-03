@@ -1,0 +1,271 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Rose Face Cream",
+      "price": 499,
+      "image": "/images/facecream.jpg",
+      "category": "Skincare",
+      "brand": "StyleHub",
+      "description": "Hydrating rose face cream for glowing skin"
+    },
+    {
+      "id": "2",
+      "name": "Vitamin C Serum",
+      "price": 699,
+      "image": "/images/serum.jpg",
+      "category": "Skincare",
+      "brand": "StyleHub",
+      "description": "Brightening serum for clear skin"
+    },
+    {
+      "id": "3",
+      "name": "Matte Lipstick Red",
+      "price": 299,
+      "image": "/images/lipstick.jpg",
+      "category": "Makeup",
+      "brand": "StyleHub",
+      "description": "Long lasting matte lipstick"
+    },
+    {
+      "id": "4",
+      "name": "Liquid Foundation",
+      "price": 599,
+      "image": "/images/foundation.jpg",
+      "category": "Makeup",
+      "brand": "StyleHub",
+      "description": "Smooth finish foundation cream"
+    },
+    {
+      "id": "5",
+      "name": "Herbal Shampoo",
+      "price": 399,
+      "image": "/images/shampoo.jpg",
+      "category": "Haircare",
+      "brand": "StyleHub",
+      "description": "Natural herbal shampoo"
+    },
+    {
+      "id": "6",
+      "name": "Hair Conditioner",
+      "price": 349,
+      "image": "/images/conditioner.jpg",
+      "category": "Haircare",
+      "brand": "StyleHub",
+      "description": "Softening hair conditioner"
+    },
+    {
+      "id": "7",
+      "name": "Floral Perfume",
+      "price": 999,
+      "image": "/images/perfume.jpg",
+      "category": "Fragrance",
+      "brand": "StyleHub",
+      "description": "Long lasting perfume"
+    },
+    {
+      "id": "8",
+      "name": "Body Lotion",
+      "price": 299,
+      "image": "/images/lotion.jpg",
+      "category": "Bodycare",
+      "brand": "StyleHub",
+      "description": "Moisturizing body lotion"
+    },
+    {
+      "id": "9",
+      "name": "Face Wash",
+      "price": 249,
+      "image": "/images/facewash.jpg",
+      "category": "Skincare",
+      "brand": "StyleHub",
+      "description": "Gentle face cleanser"
+    },
+    {
+      "id": "10",
+      "name": "Kajal Pencil",
+      "price": 199,
+      "image": "/images/kajal.jpg",
+      "category": "Makeup",
+      "brand": "StyleHub",
+      "description": "Smudge free kajal"
+    },
+    {
+      "id": "11",
+      "name": "Nail Polish",
+      "price": 149,
+      "image": "/images/nailpolish.jpg",
+      "category": "Makeup",
+      "brand": "StyleHub",
+      "description": "Glossy nail polish"
+    },
+    {
+      "id": "12",
+      "name": "Face Mask",
+      "price": 199,
+      "image": "/images/facemask.jpg",
+      "category": "Skincare",
+      "brand": "StyleHub",
+      "description": "Detox face mask"
+    },
+    {
+      "id": "13",
+      "name": "Hair Oil",
+      "price": 299,
+      "image": "/images/hairoil.jpg",
+      "category": "Haircare",
+      "brand": "StyleHub",
+      "description": "Strengthening hair oil"
+    },
+    {
+      "id": "14",
+      "name": "Makeup Remover",
+      "price": 249,
+      "image": "/images/remover.jpg",
+      "category": "Skincare",
+      "brand": "StyleHub",
+      "description": "Gentle makeup remover"
+    },
+    {
+      "id": "15",
+      "name": "Lip Balm",
+      "price": 149,
+      "image": "/images/lipbalm.jpg",
+      "category": "Makeup",
+      "brand": "StyleHub",
+      "description": "Moisturizing lip balm"
+    },
+    {
+      "id": "16",
+      "name": "Sunscreen SPF 50",
+      "price": 399,
+      "image": "/images/sunscreen.jpg",
+      "category": "Skincare",
+      "brand": "StyleHub",
+      "description": "Sun protection cream"
+    },
+    
+    {
+      "id": 19,
+      "name": "scrub",
+      "brand": "StyleHub",
+      "category": "Bodycare",
+      "price": "250",
+      "image": "/images/scrub.jpg",
+      "description": "clear spredder"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@stylehub.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Swapna",
+      "email": "swapna@gmail.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "name": "Anu",
+      "email": "anu@gmail.com",
+      "password": "anu123",
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "password": "ravi123",
+      "role": "user"
+    },
+    {
+      "id": "5",
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "password": "priya123",
+      "role": "user"
+    },
+    {
+      "id": "6",
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "password": "kiran123",
+      "role": "user"
+    },
+    {
+      "id": "7",
+      "name": "Divya",
+      "email": "divya@gmail.com",
+      "password": "divya123",
+      "role": "user"
+    },
+    {
+      "id": "8",
+      "name": "Suresh",
+      "email": "suresh@gmail.com",
+      "password": "suresh123",
+      "role": "user"
+    },
+    {
+      "id": "9",
+      "name": "Meena",
+      "email": "meena@gmail.com",
+      "password": "meena123",
+      "role": "user"
+    },
+    {
+      "id": "10",
+      "name": "Vijay",
+      "email": "vijay@gmail.com",
+      "password": "vijay123",
+      "role": "user"
+    },
+    {
+      "id": "11",
+      "name": "Pooja",
+      "email": "pooja@gmail.com",
+      "password": "pooja123",
+      "role": "user"
+    },
+    {
+      "id": "12",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul123",
+      "role": "user"
+    },
+    {
+      "id": "13",
+      "name": "Neha",
+      "email": "neha@gmail.com",
+      "password": "neha123",
+      "role": "user"
+    },
+    {
+      "id": "14",
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "password": "amit123",
+      "role": "user"
+    },
+    {
+      "id": "15",
+      "name": "Sneha",
+      "email": "sneha@gmail.com",
+      "password": "sneha123",
+      "role": "user"
+    },
+    {
+      "id": "ba02",
+      "name": "swapna",
+      "email": "swapnareddy@gmail.com",
+      "password": "Chocolate@18"
+    }
+  ]
+}
